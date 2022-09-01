@@ -1,0 +1,12 @@
+問
+（１）MACアドレス：AAAA.AAAA.AAAA
+
+　　　答え：A8 AA AA FF FE AA AA AA
+
+（２）MACアドレス：9876.5432.10FE
+　　
+　　　答え：9A 76 54 FF FE 32 10 FE
+
+（３）MACアドレス：FFFF.FFFF.FFFF
+
+　　　答え：FD FF FF FF FE FF FF FF
